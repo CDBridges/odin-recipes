@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+img {
+    height: 325px;
+    widows: auto;
+}
+ul {
+    text-align: left;
+    margin: auto;
+    display: table;
+}
